@@ -1,0 +1,22 @@
+<svg width="2641" height="706" viewBox="0 0 2641 706" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g style="mix-blend-mode:multiply">
+<path d="M1936 352.99C1936 158.039 2093.82 0 2288.5 0C2483.18 0 2641 158.039 2641 352.99C2288.5 352.99 2483.18 352.99 2288.5 352.99C2093.82 352.99 2288.5 352.99 1936 352.99Z" fill="#001D76"/>
+</g>
+<rect x="2338.89" y="352.988" width="302.065" height="352.989" fill="#003399"/>
+<rect x="1936" y="352.988" width="302.165" height="352.989" fill="#003399"/>
+<rect x="1583.14" width="252.135" height="705.979" fill="#003399"/>
+<ellipse cx="1258.79" cy="479.057" rx="223.489" ry="226.922" fill="#8099CC"/>
+<g style="mix-blend-mode:multiply">
+<rect x="999.244" width="483.034" height="201.708" fill="#003399"/>
+</g>
+<g style="mix-blend-mode:multiply">
+<rect x="776.351" y="504.271" width="494.258" height="201.708" fill="#003399"/>
+</g>
+<g style="mix-blend-mode:multiply">
+<ellipse cx="999.839" cy="226.922" rx="223.489" ry="226.922" fill="#8099CC"/>
+</g>
+<path d="M777.722 202C792 79 894 0 1001 0V202H777.722Z" fill="#001F7A"/>
+<path d="M1481 504C1467.19 627 1368.51 706 1265 706V504H1481Z" fill="#001F7A"/>
+<ellipse cx="352.963" cy="352.989" rx="352.963" ry="352.989" fill="#003399"/>
+<ellipse cx="352.963" cy="352.99" rx="126.058" ry="126.068" fill="#8099CC"/>
+</svg>
